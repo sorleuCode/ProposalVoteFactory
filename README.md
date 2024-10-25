@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+This is a factory contract that Deploys various instance of proposalVote instance
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+Deployement Link: https://sepolia.basescan.org/address/0x6992542286b54451DD5006856169b5B88f5B7F2d#code
